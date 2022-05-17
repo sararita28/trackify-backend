@@ -1,4 +1,5 @@
-# Trackify [![Run on Repl.it](https://repl.it/badge/github/sararita28/trackify)](https://repl.it/sararita28/trackify)
+# Trackify [![View on Repl.it](https://repl.it/badge/github/sararita28/trackify-frontend)](https://trackify-frontend.sararita28.repl.co/)
+
 
 <img align="right" height="400px" src="images/logo_transparent.png"/>
 
